@@ -1,0 +1,13 @@
+p  { color:yellow;
+    font-style: italic ;
+    font-size: 1cm;
+    background-color:turquoise; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.page2h1 {color: red;
+    font-size: 2cm;
+    background-color: royalblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+    .page1h1{color:aqua;
+        font-size: 2cm;
+        background-color: royalblue;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
